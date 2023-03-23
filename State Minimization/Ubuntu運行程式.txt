@@ -1,0 +1,4 @@
+1. ->  g++ State_Minimization.cpp
+2. ->  ./a.out input1.kiss output(檔名自訂).kiss output(檔名自訂).dot
+3. ->  dot -T png output(檔名自訂).dot > output(檔名自訂).png
+ 

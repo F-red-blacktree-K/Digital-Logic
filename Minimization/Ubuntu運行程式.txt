@@ -1,0 +1,7 @@
+g++ mini.cpp
+
+./a.out (測資檔案名稱).pla (可自訂輸出的檔案名稱).pla
+
+
+示範:
+./a.out test2.pla abc.pla
